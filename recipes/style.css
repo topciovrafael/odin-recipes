@@ -1,0 +1,20 @@
+.alb{
+    color: white;
+}
+img {
+
+    width: 500px;
+    
+  
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+  h1{
+    text-align: center;
+    font-family: "press Start 2P";
+  }
